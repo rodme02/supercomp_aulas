@@ -1,0 +1,5 @@
+arquivo,n_iteracoes,n_itens,valor_maximo,peso_ocupado,n_combinacoes,tempo_medio
+entrada1.txt,100,172,266,10,172,1352
+entrada2.txt,100,19,156,2,19,288
+entrada3.txt,100,320,236,95,320,2927
+entrada4.txt,100,48,55,10,48,637
